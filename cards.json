@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "name": "Security Complex",
+      "set": 1,
+      "rarity": "R",
+      "type": "Base",
+      "aspects": "U",
+      "cost": 0,
+      "standard_id": 19,
+      "standard_img_url": "",
+      "standard_has_foil": true,
+      "hyperspace_id": 285,
+      "hyperspace_img_url": "",
+      "hyperspace_has_foil": true
+    },
+    {
+      "name": "Director Krennic",
+      "set": 1,
+      "rarity": "C",
+      "type": "Leader",
+      "aspects": "UB",
+      "cost": 5,
+      "standard_id": 1,
+      "standard_img_url": "",
+      "standard_has_foil": false,
+      "hyperspace_id": 253,
+      "hyperspace_img_url": "",
+      "hyperspace_has_foil": false,
+      "showcase_id": 269,
+      "showcase_img_url": ""
+    }
+  ]
+}
