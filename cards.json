@@ -61,6 +61,54 @@
       "hyperspace_has_foil": false,
       "showcase_id": 271,
       "showcase_img_url": ""
+    },
+    {
+      "name": "Chirrut Îmwe",
+      "set": 1,
+      "rarity": "R",
+      "type": "Leader",
+      "aspects": "UW",
+      "cost": 5,
+      "standard_id": 4,
+      "standard_img_url": "",
+      "standard_has_foil": false,
+      "hyperspace_id": 256,
+      "hyperspace_img_url": "",
+      "hyperspace_has_foil": false,
+      "showcase_id": 272,
+      "showcase_img_url": ""
+    },
+    {
+      "name": "Luke Skywalker",
+      "set": 1,
+      "rarity": "S",
+      "type": "Leader",
+      "aspects": "UW",
+      "cost": 6,
+      "standard_id": 5,
+      "standard_img_url": "",
+      "standard_has_foil": false,
+      "hyperspace_id": null,
+      "hyperspace_img_url": null,
+      "hyperspace_has_foil": false,
+      "showcase_id": null,
+      "showcase_img_url": null
+    },
+    {
+      "name": "Emperor Palpatine",
+      "set": 1,
+      "rarity": "R",
+      "type": "Leader",
+      "aspects": "GB",
+      "cost": 8,
+      "standard_id": 6,
+      "standard_img_url": "",
+      "standard_has_foil": false,
+      "hyperspace_id": 257,
+      "hyperspace_img_url": "",
+      "hyperspace_has_foil": false,
+      "showcase_id": 273,
+      "showcase_img_url": ""
     }
   ]
 }
