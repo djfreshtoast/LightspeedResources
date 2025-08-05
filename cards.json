@@ -29,6 +29,38 @@
       "hyperspace_has_foil": false,
       "showcase_id": 269,
       "showcase_img_url": ""
+    },
+    {
+      "name": "Iden Versio",
+      "set": 1,
+      "rarity": "R",
+      "type": "Leader",
+      "aspects": "UB",
+      "cost": 6,
+      "standard_id": 2,
+      "standard_img_url": "",
+      "standard_has_foil": false,
+      "hyperspace_id": 254,
+      "hyperspace_img_url": "",
+      "hyperspace_has_foil": false,
+      "showcase_id": 270,
+      "showcase_img_url": ""
+    },
+    {
+      "name": "Chewbacca",
+      "set": 1,
+      "rarity": "C",
+      "type": "Leader",
+      "aspects": "UW",
+      "cost": 7,
+      "standard_id": 3,
+      "standard_img_url": "",
+      "standard_has_foil": false,
+      "hyperspace_id": 255,
+      "hyperspace_img_url": "",
+      "hyperspace_has_foil": false,
+      "showcase_id": 271,
+      "showcase_img_url": ""
     }
   ]
 }
