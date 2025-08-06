@@ -2,6 +2,7 @@
   "cards": [
     {
       "name": "Security Complex",
+      "subname": "",
       "set": 1,
       "rarity": "R",
       "type": "Base",
@@ -16,6 +17,7 @@
     },
     {
       "name": "Director Krennic",
+      "subname": "Aspiring to Authority",
       "set": 1,
       "rarity": "C",
       "type": "Leader",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Iden Versio",
+      "subname": "Inferno Squad Commando",
       "set": 1,
       "rarity": "R",
       "type": "Leader",
@@ -48,6 +51,7 @@
     },
     {
       "name": "Chewbacca",
+      "subname": "Walking Carpet",
       "set": 1,
       "rarity": "C",
       "type": "Leader",
@@ -64,6 +68,7 @@
     },
     {
       "name": "Chirrut Îmwe",
+      "subname": "One With the Force",
       "set": 1,
       "rarity": "R",
       "type": "Leader",
@@ -80,6 +85,7 @@
     },
     {
       "name": "Luke Skywalker",
+      "subname": "Faithful Friend",
       "set": 1,
       "rarity": "S",
       "type": "Leader",
@@ -96,6 +102,7 @@
     },
     {
       "name": "Emperor Palpatine",
+      "subname": "Galactic Ruler",
       "set": 1,
       "rarity": "R",
       "type": "Leader",
@@ -112,6 +119,7 @@
     },
     {
       "name": "Grand Moff Tarkin",
+      "subname": "Oversector Governor",
       "set": 1,
       "rarity": "C",
       "type": "Leader",
@@ -128,6 +136,7 @@
     },
     {
       "name": "Hera Syndulla",
+      "subname": "Spectre Two",
       "set": 1,
       "rarity": "R",
       "type": "Leader",
@@ -144,6 +153,7 @@
     },
     {
       "name": "Leia Organa",
+      "subname": "Alliance General",
       "set": 1,
       "rarity": "C",
       "type": "Leader",
@@ -159,6 +169,7 @@
     },
     {
       "name": "Darth Vader",
+      "subname": "Dark Lord of the Sith",
       "set": 1,
       "rarity": "S",
       "type": "Leader",
